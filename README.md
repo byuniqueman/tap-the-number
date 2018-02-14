@@ -5,7 +5,6 @@
 &nbsp;  
 &nbsp;  
 
-
 Tap The Number is a simple React-Native game where you have to tap the tiles that appear on the screen in a specific order.  
 Even if developing this game didn't take too much time (I should have put in it ~20 hours I guess) it has been a fun ride and I'd like to share some tips and some info on the complexities I found during its development.   
 But first...  
